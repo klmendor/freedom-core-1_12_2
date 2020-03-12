@@ -1,0 +1,16 @@
+[
+{
+  "modid": "freedomcore",
+  "name": "Freedom Core",
+  "description": "Core mod for \"Freedom - Quest for sanity\" modpack.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["KLMendor"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
